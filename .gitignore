@@ -1,0 +1,10 @@
+*.env
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+pooltogether_audit_v5/
+*.log
+*apikey*
+*secret*
